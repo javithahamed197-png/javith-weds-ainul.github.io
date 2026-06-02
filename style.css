@@ -107,7 +107,7 @@ letter-spacing:2px;
 .heart{
 font-size:30px;
 margin:15px 0;
-color:var(--gold-soft);
+color:#ffffff;
 }
 
 .guest-title{
@@ -340,7 +340,7 @@ margin:20px 0;
 
 .heart{
 font-size:34px;
-color:var(--gold-soft);
+color:#ffffff;
 animation:pulse 2s infinite;
 }
 
